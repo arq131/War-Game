@@ -1,0 +1,6 @@
+Team.txt
+
+SOLO
+Team: Danny Nguyen (arq131)
+
+Hours worked on: 6 hours
